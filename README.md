@@ -42,7 +42,7 @@ Note: Below graphs are screenshots from the Tableau Story; With the Talbeau Stor
 - What are the causes for these delays? From 2014 to 2020, the most common cause for delays were incidents inolving disorderly patrons and transporting injured or ill customer on train.
 <img src="tableau_images/Tableau_Story_Page_3.PNG"></img>
 
-- By taking a closer look, we can see that incidents involving disorderly patrons have been getting worse YoY. In addition, "No Operator Immediately Available - Not E.S.A. Related" has caused a total of 4,283 minutes of delay in 2020, despite ridership falling by half. This suggests a ver serious operational and logistical problem.
+- By taking a closer look, we can see that incidents involving disorderly patrons have been getting worse YoY. In addition, "No Operator Immediately Available - Not E.S.A. Related" has caused a total of 4,283 minutes of delay in 2020, despite ridership falling by half. This suggests a very serious operational and logistical problem.
 <img src="tableau_images/Tableau_Story_Page_4.PNG"></img>
 
 
@@ -78,4 +78,4 @@ On the last 2 pages of the Tableau Story, the user can examine the trend in aver
 
 ## Conclusions
 
-There could be many reasons why subway delays could occur. In fact, based on the Subway Delay Codes, the TTC lists out 129 different causes of delays. While causes like technical or system issues are unpredictable, and passengers' medical conditions will require immediate attention, there are other causes of delays that could be prevented. Indeed, as shown in the above analysis, these issues are causing the most delays in 2020. The TTC should take initiatives to better manage its logistic schedule for operators in order to ensure the subway operations are ran smoothly. In addition, disorderly patrons have been an issue for a long time. The TTC should put revisit its policy and measures on handling/preventing similar incidents from disrupting normal subway services.
+There could be many reasons why subway delays could occur. In fact, based on the Subway Delay Codes, the TTC lists out 129 different causes of delays. While causes like technical or system issues are unpredictable, and passengers' medical conditions will require immediate attention, there are other causes of delays that could be prevented. Indeed, as shown in the above analysis, these issues are causing the most delays in 2020. The TTC should take initiatives to better manage its logistic schedule for operators in order to ensure the subway operations are ran smoothly. In addition, disorderly patrons have been an issue for a long time. The TTC should put revisit its policy and measures on handling/preventing similar incidents from disrupting normal subway services. Lastly, the TTC should consider installing Platform Screen Doors, with a high emphasis on stations with a track record of delays due to incidents involving train in contact with person, or unauthorized person at track level.
