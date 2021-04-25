@@ -28,7 +28,7 @@ TTC Subway Delays have been a major issue for Toronto's commuters for years. Thi
 
 ### [Click here to see the Tableau Story !](https://public.tableau.com/profile/anthony.ng2094#!/vizhome/TTCSubwayDelaysVisualized/TTCDelayStory)
 
-Note: Below graphs are screenshots from the Tableau Story; Wit the Talbeau Story opened, details of each data point will be shown by hovering your cursor on the data points.
+Note: Below graphs are screenshots from the Tableau Story; With the Talbeau Story opened, details of each data point will be shown by hovering your cursor on the data points.
 
 - TTC Subway delays have been deteriorating in the past few years. As shown in below graphs (orange line on the left, and red line on the right graph), delays increased sharply in 2018 eventhough ridership had fallen slightly that year. In 2020, on average, the subway gets delayed by 123 minutes per day despite significant drop in Average Monthly Ridership from over 43M monthly riders in 2019, to below 20M monthly riders in 2020. In other words, Average Monthly Ridership fell by 55% year-over-year (YoY), but Average Minutes Delayed per Day was only reduced by 3%. (Note: Average Monthly Ridership Data covers all of TTC's services, which includes the Subway, Bus, and Streetcars. There is no further breakdown of ridership by type of services. Hence, the total for all 3 types of services is used as a proxy to reflect the change in level of subway ridership YoY)
 <img src="tableau_images/Tableau_Story_Page_1.PNG"></img>
